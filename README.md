@@ -28,7 +28,8 @@ These are the step by step process followed to complete this project:
 az login 
 ```
 
-![Alt text](image.png)
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/9f6eec9f-3e30-46d6-93d4-adc720120a0a)
+
 
 2. Within this repository, we are utilizing Azure credentials provided by Udacity. Consequently, the Azure resource group "Azuredevops" is employed. Execute the Packer image for the virtual machine.
 
@@ -56,14 +57,16 @@ Once this is done, run the following command to create a packer image:
 ```
 packer build ./packer-image.json
 ```
-![Alt text](image-1.png)
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/cceea77a-02ca-4367-88a3-71549c63c949)
+
 
 3. Next, configure the storage account and state backend. Initially, run the script named "create-tf-storage.sh" using the following command:
 
 ```
 bash configure-tfstate-storage-account.sh
 ```
-![Alt text](image-2.png)
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/707e3aa5-4f7b-4eb8-b1ad-6ea7498b0541)
+
 
 4. Then, replace the values in the "terraform/main.tf" file with the output obtained from running the "create-tf-storage.sh" script. Update the backend configuration in the "terraform.tfvars" file.
 
