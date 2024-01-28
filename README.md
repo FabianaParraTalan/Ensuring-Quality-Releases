@@ -154,7 +154,7 @@ Report
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/0df0b3be-4dea-426b-85b4-2c4e7a0577f7)
 
 - Endurance Test
-![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/5bc6cfd5-08da-4d82-8c31-e1c09722a302)
+<img width="950" alt="image" src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/ac19fc62-81a4-40ed-9020-6bbcd934f257">
 
 Report 
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/e0cfac07-5879-4cc5-a795-5103a75033d7)
