@@ -156,7 +156,8 @@ Report
 <img width="959" alt="test1" src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/99cfb376-94f2-40b6-b744-f73345837b5b">
 
 
-<img width="957" alt="TEST 1 CONT " src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/15a75c8e-791f-4f13-9e67-03bc4422e5d5">
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/6dd8f437-09ce-41ab-a16a-fb88c8e9f6d0)
+
 
 - Endurance Test
 <img width="950" alt="image" src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/ac19fc62-81a4-40ed-9020-6bbcd934f257">
