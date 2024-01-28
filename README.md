@@ -183,7 +183,8 @@ Example of the Pipeline execusion
 ![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/45f5f3fb-6937-4f46-a143-8eb79aee1a46)
 
 
-![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/4e4aa379-b9b3-44b5-8352-cb6483448018)
+<img width="610" alt="image" src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/396cb769-a867-43b3-86dd-50f3d0bb037d">
+
 
 
 ### Monitoring and Observability
