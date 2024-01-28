@@ -180,7 +180,8 @@ Report
 
 Example of the Pipeline execusion 
 
-<img width="680" alt="image" src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/e4fa7493-6c53-40ae-b63f-03a7e157645a">
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/45f5f3fb-6937-4f46-a143-8eb79aee1a46)
+
 
 ![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/4e4aa379-b9b3-44b5-8352-cb6483448018)
 
