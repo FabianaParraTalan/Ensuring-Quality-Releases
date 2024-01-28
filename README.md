@@ -92,8 +92,7 @@ terraform apply
 ```
 Your results should look somewhat like this
 
-![Alt text](image-3.png)
-
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/aa4dc57a-619d-417a-bc52-8454e5e63724)
 
 
 ### Pipeline Development:
