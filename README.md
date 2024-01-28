@@ -139,12 +139,12 @@ The pipeline consists of the following steps:
 #### Postman 
 - Data Validation Test
 
-![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/d59ea960-017d-4576-9b32-288ef53ff2fc)
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/7129aa27-e73a-4ef0-b84b-a16ec9f47cbe)
 
 
 - Regression Test
   
-![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/54b053a7-2c33-4e4b-bcc7-1fdb06eec6f5)
+
 
 
 #### JMeter Performance Testing 
