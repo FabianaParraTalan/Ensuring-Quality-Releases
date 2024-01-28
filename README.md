@@ -115,6 +115,13 @@ variables:
   tfrg: ''
   application_type: ''  
 ```
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/c7400e1f-8e89-41c2-8121-e12ab76dbaef)
+
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/243e00a2-9bce-4956-b589-e32000764860)
+
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/b93941b7-c3b4-4579-856e-9726ff12bc43)
+
+
 The pipeline consists of the following steps:
 
 - Build the FakeRestAPI artifact by archiving the entire FakeRestAPI directory into a zip file.
