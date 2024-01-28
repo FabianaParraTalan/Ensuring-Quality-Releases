@@ -179,7 +179,11 @@ Report
 
 
 Example of the Pipeline execusion 
-![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/219a7444-c738-4547-b956-9766267fed83)
+
+<img width="680" alt="image" src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/e4fa7493-6c53-40ae-b63f-03a7e157645a">
+
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/4e4aa379-b9b3-44b5-8352-cb6483448018)
+
 
 ### Monitoring and Observability
 - Go to Azure Pipelines and go to the observability monitor, create a new alert. Execute the pipeline to trigger the alert.
