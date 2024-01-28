@@ -149,7 +149,9 @@ The pipeline consists of the following steps:
 
 #### JMeter Performance Testing 
 - Stress Test
-![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/bc94589a-0a1b-4ddc-9183-842c24824791)
+
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/bf10a94b-cd88-4504-8010-bc973cd46a66)
+
 
 Report 
 
@@ -160,7 +162,9 @@ Report
 
 
 - Endurance Test
-<img width="950" alt="image" src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/ac19fc62-81a4-40ed-9020-6bbcd934f257">
+
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/c3c8c42e-9298-44bc-8d35-8cd76d2b3880)
+
 
 Report 
 <img width="960" alt="endurance test dashboard " src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/af0253e6-e4d9-497f-9eb9-c6e42b6206f5">
