@@ -143,7 +143,8 @@ The pipeline consists of the following steps:
 
 
 - Regression Test
-![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/503d456c-8887-449d-b8ec-19cb30a1142f)
+  
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/54b053a7-2c33-4e4b-bcc7-1fdb06eec6f5)
 
 
 #### JMeter Performance Testing 
