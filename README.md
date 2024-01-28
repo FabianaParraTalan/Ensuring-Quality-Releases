@@ -152,13 +152,20 @@ The pipeline consists of the following steps:
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/bc94589a-0a1b-4ddc-9183-842c24824791)
 
 Report 
-![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/0df0b3be-4dea-426b-85b4-2c4e7a0577f7)
+
+<img width="959" alt="test1" src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/99cfb376-94f2-40b6-b744-f73345837b5b">
+
+
+<img width="957" alt="TEST 1 CONT " src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/15a75c8e-791f-4f13-9e67-03bc4422e5d5">
 
 - Endurance Test
 <img width="950" alt="image" src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/ac19fc62-81a4-40ed-9020-6bbcd934f257">
 
 Report 
-![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/e0cfac07-5879-4cc5-a795-5103a75033d7)
+<img width="960" alt="endurance test dashboard " src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/af0253e6-e4d9-497f-9eb9-c6e42b6206f5">
+
+<img width="956" alt="endurance test dashboard 2" src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/c70afd81-8cae-42b9-bc88-79f29d9a4084">
+
 
 #### Functional Testing with Selenium 
 
