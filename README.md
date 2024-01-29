@@ -208,5 +208,6 @@ Example of the Pipeline execusion
 
 #### Custom Logs 
 - Go to the logs section in the general group part of your logs analytics and select and run your custom log. 
-<img width="677" alt="image" src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/95e314f8-aae1-4896-96ab-10f37271dc7a">
+<img width="796" alt="image" src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/dd3af35b-96ff-49ae-9271-b9878ecbb2dc">
+
 
