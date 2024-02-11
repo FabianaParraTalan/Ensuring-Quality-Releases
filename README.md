@@ -198,7 +198,7 @@ Example of the Pipeline execusion
 
 #### Picture of the email alert
 
-
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/f51f3c60-9859-465a-9d35-4fb1590d2690)
 
 - Configure azure log analytics by downloading the selenium-test.log artifact from Azure Devops
 - Navigate to the Azure Portal and access Azure Log Analytics workspaces.
