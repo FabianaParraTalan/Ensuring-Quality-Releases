@@ -192,8 +192,6 @@ Example of the Pipeline execusion
 
 #### Picture of the Monitor Chart 
 
-![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/5ec24a51-bb0d-481d-a208-6745a8992c5e)
-
 
 ![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/a4ee8504-f3bc-4878-afa5-ddeec4468a78)
 
