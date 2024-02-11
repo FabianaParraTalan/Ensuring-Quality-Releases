@@ -192,8 +192,7 @@ Example of the Pipeline execusion
 
 #### Picture of the Monitor Chart 
 
-![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/1f5947b4-db68-457f-b382-6d3459c2ceb6)
-
+![image](https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/5f088c5f-ee94-4fb5-92f4-2bc620aa39b6)
 
 
 #### Picture of the email alert
