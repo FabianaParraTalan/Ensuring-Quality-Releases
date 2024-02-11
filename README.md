@@ -207,7 +207,10 @@ Example of the Pipeline execusion
 - Specify the path of the selenium-test.log from the VM where the task was executed as the collection path for logs.
 
 #### Custom Logs 
-- Go to the logs section in the general group part of your logs analytics and select and run your custom log. 
+- Go to the logs section in the general group part of your logs analytics and select and run your custom log.
+
+<img width="646" alt="logs final" src="https://github.com/FabianaParraTalan/Ensuring-Quality-Releases/assets/156691609/92d47865-c8de-4902-adb9-5ffc0ce7dc93">
+
 
 
 
