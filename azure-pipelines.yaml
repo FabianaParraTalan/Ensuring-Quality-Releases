@@ -19,11 +19,11 @@ variables:
   # Environment name
   environmentName: 'test-vm'
   # terraform storage number
-  tfstatenumber: 'tfstate362525178'
+  tfstatenumber: 'tfstate295022804'
   # terraform resource group
-  tfrg: 'Azuredevops'
+  tfrg: 'myResourceGroup'
   # webapp name
-  application_type: 'my-application'
+  application_type: 'myApplication2903'
   # Add your Azure Subscription ID here
   subscriptionId: 'a4b11da3-2642-4ae2-b8e0-ba40545a13d6' 
 
@@ -148,7 +148,7 @@ stages:
             displayName: 'Deploy Azure Web App'
             inputs:
               azureSubscription: '$(azureServiceConnectionId)'
-              appName: 'my-application-AppService'
+              appName: 'myApplication2903-AppService'
               appType: 'webAppLinux'
               package: $(Pipeline.Workspace)/drop-fakerestapi/$(Build.BuildId)-fakerestapi.zip
 # --------------------------------------------#  
